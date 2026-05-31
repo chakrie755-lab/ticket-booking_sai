@@ -1,0 +1,6 @@
+{
+  "name": "Department Event Ticket Booking",
+  "description": "A React-based web application for booking tickets to internal department events, seminars, and technical fests with interactive features and real-time availability tracking.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
